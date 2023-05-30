@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MikeFultonDev/MikeFultonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Blogs
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+My Blog: [Making Developers Lives Better](https://makingdeveloperslivesbetter.wordpress.com/)
