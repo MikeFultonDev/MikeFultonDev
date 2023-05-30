@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Blog: [Making Developers Lives Better](https://makingdeveloperslivesbetter.wordpress.com/)
-😄 Pronouns: He/Him/His
+- My Blog: [Making Developers Lives Better](https://makingdeveloperslivesbetter.wordpress.com/)
+- 😄 Pronouns: He/Him/His
