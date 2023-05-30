@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 My Blog: [Making Developers Lives Better](https://makingdeveloperslivesbetter.wordpress.com/)
+😄 Pronouns: He/Him/His
